@@ -26,7 +26,7 @@ s = password()
 # Janela
 leandro = Tk()
 leandro.geometry('600x300')
-leandro.title('DE OSASCO - NIT')
+leandro.title('LELE LIMA')
 
 # Barra de Menu
 menubar = Menu(leandro)
